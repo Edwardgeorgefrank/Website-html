@@ -1,0 +1,409 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="BBC.co.nz" resolutions="1x" timestamp="1488700429705">
+  <folder name="css">
+    <file name="site_global.css" crc="418445787"/>
+    <file name="master_b-master.css" crc="255154469" ref="pacific-pale-ale:our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner"/>
+    <file name="master_a-master.css" crc="41879908" ref="food-menu:index:our-media:the-studio"/>
+    <file name="master_master-copy-c-copy.css" crc="166306637" ref="contact-us"/>
+    <file name="food-menu.css" crc="4272078447" ref="food-menu"/>
+    <file name="index.css" crc="273554304" ref="index"/>
+    <file name="pacific-pale-ale.css" crc="47673628" ref="pacific-pale-ale"/>
+    <file name="our-beer.css" crc="3758654883" ref="our-beer"/>
+    <file name="kauri-ipa.css" crc="4223985358" ref="kauri-ipa"/>
+    <file name="our-media.css" crc="4251462474" ref="our-media"/>
+    <file name="rawene.css" crc="3840025089" ref="rawene"/>
+    <file name="beautiful-trouble-ipa.css" crc="376846999" ref="beautiful-trouble-ipa"/>
+    <file name="bbc-pilsner.css" crc="42776248" ref="bbc-pilsner"/>
+    <file name="contact-us.css" crc="129001777" ref="contact-us"/>
+    <file name="the-studio.css" crc="4064887389" ref="the-studio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>our-studio:phone>our-beer:phone>our-media:tablet>the-studio:tablet>our-media:contact-us:our-media"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:our-media"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:tablet>index:index:our-beer:the-studio:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:our-media"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:tablet>index:index:our-beer:the-studio:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:our-media"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:tablet>index:index:our-beer:the-studio:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:our-media"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form_process.php" crc="401030677" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form-u2239.php" crc="219126429" ref="phone>contact-us"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="form-u4132.php" crc="4147433140" ref="tablet>contact-us"/>
+    <file name="form-u1475.php" crc="241498474" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="bbc_stamp_w.png" crc="8581421" seo="true" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="burger.svg" crc="203702312" ref="phone>index:phone>our-beer"/>
+    <file name="burger_poster_u1751.png" crc="4118692799" ref="phone>index:phone>our-beer"/>
+    <file name="brussels_-34.jpg" crc="420770458" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>our-media:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index:our-beer:the-studio:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u1907-10.png" crc="3758545351" ref="phone>index"/>
+    <file name="u2051-4.png" crc="4251413515" ref="phone>index"/>
+    <file name="u1944-4.png" crc="512527416" ref="phone>index"/>
+    <file name="kauri888.png" crc="513037553" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="rawene888.png" crc="408293257" seo="true" ref="phone>index:tablet>index"/>
+    <file name="pilsner888.png" crc="38211539" seo="true" ref="phone>index:tablet>index"/>
+    <file name="ppa888.png" crc="30185359" seo="true" ref="phone>index:tablet>index"/>
+    <file name="beautiful_trouble_888ml122x307.png" crc="384968885" seo="true" ref="phone>index"/>
+    <file name="studio-dark.jpg" crc="4179404324" seo="true" ref="phone>index:index:the-studio"/>
+    <file name="u2008-6.png" crc="223723283" ref="phone>index"/>
+    <file name="u2009-10.png" crc="4130097973" ref="phone>index"/>
+    <file name="radio_white.jpg" crc="4232231283" ref="phone>index"/>
+    <file name="u2018-25.png" crc="73998663" ref="phone>index"/>
+    <file name="what-is-love-radio.jpg" crc="420163625" ref="phone>index"/>
+    <file name="u2046-18.png" crc="155862847" ref="phone>index"/>
+    <file name="1488605295_facebook_circle_black copy.png" crc="4130854004" seo="true" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="1488604945_instagram_circle_black copy.png" crc="270031691" seo="true" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="1488604967_youtube_circle_black copy.png" crc="489595056" seo="true" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:index:our-beer:the-studio:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale:food-menu:our-media"/>
+    <file name="1488604916_map-location-pin-map-marker-glyph copy.png" crc="520169585" seo="true" ref="phone>index:phone>contact-us:phone>our-studio:phone>our-beer:phone>our-media:phone>food-menu:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout"/>
+    <file name="u2255-17.png" crc="200884290" ref="phone>contact-us"/>
+    <file name="u2255-17-r.png" crc="195222174" ref="phone>contact-us"/>
+    <file name="u2255-17-m.png" crc="473606238" ref="phone>contact-us"/>
+    <file name="u2255-17-fs.png" crc="59421444" ref="phone>contact-us"/>
+    <file name="1488605484_phone.png" crc="22071389" seo="true" ref="phone>contact-us"/>
+    <file name="artboards.png" crc="3861410491" ref="phone>our-studio:tablet>the-studio"/>
+    <file name="beautifultrouble_tapbadge135x135.png" crc="3997833331" seo="true" ref="phone>our-beer"/>
+    <file name="bbckauridipa_tapbadge.png" crc="4068428881" seo="true" ref="phone>our-beer:kauri-ipa"/>
+    <file name="aiba_bronze_medal-011.png" crc="123290429" seo="true" ref="phone>our-beer:phone>kauri-double-ipa:phone>bbc-pacific-pale-ale:tablet>our-beer:tablet>kauri-ipa:tablet>pacific-pale-ale:pacific-pale-ale"/>
+    <file name="bgnz-2016-silver-medal.png" crc="471572829" seo="true" ref="phone>our-beer:phone>kauri-double-ipa:tablet>our-beer:tablet>kauri-ipa:kauri-ipa"/>
+    <file name="tapbadge_paleale_highres.jpg" crc="25060569" seo="true" ref="phone>our-beer"/>
+    <file name="rawene_tap_badge135x135.png" crc="3868610484" seo="true" ref="phone>our-beer"/>
+    <file name="tapbadge_pilsner_highres.jpg" crc="4131182679" seo="true" ref="phone>our-beer"/>
+    <file name="beertiquette.png" crc="3989994839" seo="true" ref="phone>our-beer:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2173-8.png" crc="59188208" ref="phone>our-beer:phone>kauri-double-ipa:phone>beautiful-trouble-ipa:phone>bbc-pacific-pale-ale:phone>bbc-pilsner:phone>rawene-stout"/>
+    <file name="menu background white.png" crc="48423552" ref="phone>our-media:tablet>food-menu"/>
+    <file name="u2226-23.png" crc="256867298" ref="phone>our-media"/>
+    <file name="u2206-54.png" crc="4276038691" ref="phone>food-menu"/>
+    <file name="kauri_button.png" crc="34712082" seo="true" ref="phone>kauri-double-ipa:tablet>kauri-ipa"/>
+    <file name="u4209-30.png" crc="3779599582" ref="phone>kauri-double-ipa"/>
+    <file name="beautifultrouble_tapbadge191x191.png" crc="4279028566" seo="true" ref="phone>beautiful-trouble-ipa"/>
+    <file name="u4267-32.png" crc="4293352508" ref="phone>beautiful-trouble-ipa"/>
+    <file name="tapbadge_paleale.png" crc="279464912" seo="true" ref="phone>bbc-pacific-pale-ale"/>
+    <file name="u4256-31.png" crc="3878558162" ref="phone>bbc-pacific-pale-ale"/>
+    <file name="tapbadge_pilsner191x191.png" crc="98507129" seo="true" ref="phone>bbc-pilsner"/>
+    <file name="u4238-20.png" crc="220647560" ref="phone>bbc-pilsner"/>
+    <file name="rawene_tap_badge191x191.png" crc="155761749" seo="true" ref="phone>rawene-stout"/>
+    <file name="u4223-51.png" crc="100900095" ref="phone>rawene-stout"/>
+    <file name="u3433-6.png" crc="486510086" ref="tablet>index"/>
+    <file name="u3328.png" crc="84096428" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3328-r.png" crc="4275058895" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3328-a.png" crc="84096428" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3371.png" crc="312148626" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3371-r.png" crc="3972128491" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3364.png" crc="230781829" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3364-r.png" crc="450583851" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3343.png" crc="3779128157" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3343-r.png" crc="83138057" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3350.png" crc="272756718" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3350-r.png" crc="4015194805" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3361-4.png" crc="169672710" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3339.png" crc="4160030001" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3339-r.png" crc="322469087" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3392.png" crc="469025971" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3392-r.png" crc="3940008169" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3379.png" crc="4265766257" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3379-r.png" crc="4026192704" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3321.png" crc="3859017216" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3321-r.png" crc="111792196" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="beautifultrouble_tapbadge207x203.png" crc="4189346015" seo="true" ref="tablet>index"/>
+    <file name="u3456-4.png" crc="4113574093" ref="tablet>index"/>
+    <file name="u3457-5.png" crc="293487569" ref="tablet>index"/>
+    <file name="craftbeer white.jpg" crc="514096574" seo="true" ref="tablet>index:index"/>
+    <file name="beautiful_trouble_888ml139x349.png" crc="3914020248" seo="true" ref="tablet>index"/>
+    <file name="u3469-4.png" crc="473268685" ref="tablet>index"/>
+    <file name="studio_dark_crop.jpg" crc="277988355" seo="true" ref="tablet>index"/>
+    <file name="u3453-4.png" crc="65699341" ref="tablet>index"/>
+    <file name="u3452-12.png" crc="4123316957" ref="tablet>index"/>
+    <file name="u3470_states.png" crc="224778880" ref="tablet>index"/>
+    <file name="u3470_states-r.png" crc="507710141" ref="tablet>index"/>
+    <file name="radio_white2.jpg" crc="425520743" seo="true" ref="tablet>index"/>
+    <file name="u3487-6.png" crc="354984090" ref="tablet>index"/>
+    <file name="u3488-6.png" crc="3880799397" ref="tablet>index"/>
+    <file name="u3489-4.png" crc="4175008574" ref="tablet>index"/>
+    <file name="u3398-11.png" crc="4217116160" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="u3399-21.png" crc="3854064546" ref="tablet>index:tablet>the-studio:tablet>food-menu:tablet>contact-us"/>
+    <file name="cheers-positive copy.png" crc="4252578976" seo="true" ref="tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:our-beer:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="facebook-placeholder-for-locate-places-on-maps.svg" crc="3827257068" ref="tablet>index:tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa:tablet>the-studio:tablet>food-menu:tablet>contact-us:our-beer:contact-us:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="facebook-placeholder-for-locate-places-on-maps_poster_.png" crc="449775618" ref="tablet>index"/>
+    <file name="u3636.png" crc="4026980218" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3636-r.png" crc="4275058895" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3650.png" crc="4257144304" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3650-r.png" crc="3972128491" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3671.png" crc="230781829" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3671-r.png" crc="450583851" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3666.png" crc="3779128157" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3666-r.png" crc="83138057" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3680.png" crc="272756718" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3680-r.png" crc="4015194805" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3686-4.png" crc="169672710" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3658.png" crc="4160030001" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3658-r.png" crc="322469087" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3624.png" crc="183312554" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3624-r.png" crc="3940008169" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3695.png" crc="4215089791" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3695-r.png" crc="4026192704" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3647.png" crc="4247802792" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3647-r.png" crc="111792196" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3726-4.png" crc="136223817" ref="tablet>our-beer"/>
+    <file name="u3792.png" crc="497695023" ref="tablet>our-beer"/>
+    <file name="u3792-r.png" crc="4163877917" ref="tablet>our-beer"/>
+    <file name="u3794.png" crc="222289660" ref="tablet>our-beer"/>
+    <file name="u3794-r.png" crc="3958552610" ref="tablet>our-beer"/>
+    <file name="u3796.png" crc="228011168" ref="tablet>our-beer"/>
+    <file name="u3796-r.png" crc="4230951855" ref="tablet>our-beer"/>
+    <file name="u3798.png" crc="4111405314" ref="tablet>our-beer"/>
+    <file name="u3798-r.png" crc="78919453" ref="tablet>our-beer"/>
+    <file name="u3800.png" crc="508205032" ref="tablet>our-beer"/>
+    <file name="u3800-r.png" crc="3977487054" ref="tablet>our-beer"/>
+    <file name="u3595-8.png" crc="4036766154" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3588-11.png" crc="4217116160" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3589-21.png" crc="3854064546" ref="tablet>our-beer:tablet>kauri-ipa:tablet>rawene:tablet>bbc-pilsner:tablet>pacific-pale-ale:tablet>beautiful-trouble-ipa"/>
+    <file name="u3841-30.png" crc="3807991931" ref="tablet>kauri-ipa"/>
+    <file name="rawene_tap_badge.png" crc="4098725537" seo="true" ref="tablet>rawene"/>
+    <file name="u3854-51.png" crc="3798501057" ref="tablet>rawene"/>
+    <file name="tapbadge_pilsner.png" crc="3781271760" seo="true" ref="tablet>bbc-pilsner"/>
+    <file name="u3868-20.png" crc="4201098620" ref="tablet>bbc-pilsner"/>
+    <file name="tapbadge_paleale2.png" crc="235851498" seo="true" ref="tablet>pacific-pale-ale"/>
+    <file name="u3883-31.png" crc="4146225679" ref="tablet>pacific-pale-ale"/>
+    <file name="beautifultrouble_tapbadge.png" crc="4097979194" seo="true" ref="tablet>beautiful-trouble-ipa"/>
+    <file name="u3907-32.png" crc="4053459332" ref="tablet>beautiful-trouble-ipa"/>
+    <file name="u3920-20.png" crc="223967938" ref="tablet>the-studio"/>
+    <file name="u3922-12.png" crc="412390030" ref="tablet>the-studio"/>
+    <file name="u3921-16.png" crc="3850689850" ref="tablet>the-studio"/>
+    <file name="u3919-3.png" crc="99110631" ref="tablet>the-studio"/>
+    <file name="u3926-4.png" crc="4235090063" ref="tablet>food-menu"/>
+    <file name="u3928-48.png" crc="4044811241" ref="tablet>food-menu"/>
+    <file name="u3927-4.png" crc="447946040" ref="tablet>food-menu"/>
+    <file name="beats-1-teaser-003.jpg" crc="4089973288" ref="tablet>our-media:our-media"/>
+    <file name="u4121-21.png" crc="522583194" ref="tablet>our-media"/>
+    <file name="u4122_states.png" crc="163109881" ref="tablet>our-media"/>
+    <file name="u4122_states-r.png" crc="163109881" ref="tablet>our-media"/>
+    <file name="u4117-8.png" crc="220017423" ref="tablet>our-media"/>
+    <file name="u4115-8.png" crc="3804683598" ref="tablet>our-media"/>
+    <file name="u4152-4.png" crc="352035568" ref="tablet>contact-us"/>
+    <file name="u4150-10.png" crc="484540034" ref="tablet>contact-us"/>
+    <file name="u4135.png" crc="373450731" ref="tablet>contact-us"/>
+    <file name="u4135-ferr.png" crc="4033837068" ref="tablet>contact-us"/>
+    <file name="u4142.png" crc="3770946077" ref="tablet>contact-us"/>
+    <file name="u4142-ferr.png" crc="3893575115" ref="tablet>contact-us"/>
+    <file name="u4148-17.png" crc="200884290" ref="tablet>contact-us"/>
+    <file name="u4148-17-r.png" crc="195222174" ref="tablet>contact-us"/>
+    <file name="u4148-17-m.png" crc="473606238" ref="tablet>contact-us"/>
+    <file name="u4148-17-fs.png" crc="59421444" ref="tablet>contact-us"/>
+    <file name="u4139.png" crc="3847317008" ref="tablet>contact-us"/>
+    <file name="u4139-ferr.png" crc="3827067012" ref="tablet>contact-us"/>
+    <file name="u4131-6.png" crc="475591178" ref="tablet>contact-us"/>
+    <file name="u117.png" crc="84096428" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u117-r.png" crc="4275058895" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u108.png" crc="312148626" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u108-r.png" crc="3972128491" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1073.png" crc="230781829" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1073-r.png" crc="450583851" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1079.png" crc="3779128157" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1079-r.png" crc="83138057" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1088.png" crc="272756718" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1088-r.png" crc="4015194805" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1093-4.png" crc="169672710" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1101.png" crc="4160030001" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1101-r.png" crc="322469087" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u124.png" crc="469025971" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u124-r.png" crc="3940008169" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u1460-4.png" crc="123669530" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u2414.png" crc="4265766257" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u2414-r.png" crc="4026192704" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u139.png" crc="3859017216" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u139-r.png" crc="111792196" ref="index:the-studio:food-menu:our-media"/>
+    <file name="beautifultrouble_tapbadge171x167.png" crc="3902270434" seo="true" ref="index"/>
+    <file name="u221-4.png" crc="69355237" ref="index"/>
+    <file name="u406-6.png" crc="486510086" ref="index"/>
+    <file name="u225-4.png" crc="394050899" ref="index"/>
+    <file name="beautiful_trouble_888ml168x423.png" crc="3831294573" seo="true" ref="index"/>
+    <file name="pilsner8882.png" crc="162621318" seo="true" ref="index:bbc-pilsner"/>
+    <file name="ppa8882.png" crc="264998915" seo="true" ref="index:pacific-pale-ale"/>
+    <file name="rawene8882.png" crc="3823559805" seo="true" ref="index:rawene"/>
+    <file name="u452-4.png" crc="323215456" ref="index"/>
+    <file name="studio-dark-crop-u4417.jpg" crc="173731937" ref="index"/>
+    <file name="u488-4.png" crc="315761388" ref="index"/>
+    <file name="u489-14.png" crc="4079420814" ref="index"/>
+    <file name="u542_states.png" crc="301956435" ref="index"/>
+    <file name="u542_states-r.png" crc="4073337302" ref="index"/>
+    <file name="radio_white-crop-u596.jpg" crc="58650183" ref="index"/>
+    <file name="u607-6.png" crc="354984090" ref="index"/>
+    <file name="u608-6.png" crc="3880799397" ref="index"/>
+    <file name="u610-4.png" crc="4064635642" ref="index"/>
+    <file name="u2592-10.png" crc="453952975" ref="index:the-studio:food-menu:our-media"/>
+    <file name="u2593-16.png" crc="3822428353" ref="index:the-studio:food-menu:our-media"/>
+    <file name="master page b.jpg" crc="3883142610" seo="true" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2674.png" crc="4026980218" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2674-r.png" crc="4275058895" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2716.png" crc="4257144304" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2716-r.png" crc="3972128491" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2682.png" crc="230781829" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2682-r.png" crc="450583851" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2710.png" crc="3779128157" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2710-r.png" crc="83138057" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2704.png" crc="272756718" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2704-r.png" crc="4015194805" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2697-4.png" crc="169672710" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2689.png" crc="4160030001" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2689-r.png" crc="322469087" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2652.png" crc="183312554" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2652-r.png" crc="3940008169" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2722.png" crc="4215089791" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2722-r.png" crc="4026192704" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2667.png" crc="4247802792" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2667-r.png" crc="111792196" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2627-4.png" crc="136223817" ref="our-beer"/>
+    <file name="u2611.png" crc="454623942" ref="our-beer"/>
+    <file name="u2611-r.png" crc="384351735" ref="our-beer"/>
+    <file name="u2613.png" crc="262366855" ref="our-beer"/>
+    <file name="u2613-r.png" crc="41862611" ref="our-beer"/>
+    <file name="u2615.png" crc="307527293" ref="our-beer"/>
+    <file name="u2615-r.png" crc="4104477203" ref="our-beer"/>
+    <file name="u2617.png" crc="4018827187" ref="our-beer"/>
+    <file name="u2617-r.png" crc="13623522" ref="our-beer"/>
+    <file name="u2619.png" crc="495924603" ref="our-beer"/>
+    <file name="u2619-r.png" crc="4150076665" ref="our-beer"/>
+    <file name="u2629-4.png" crc="3967365296" ref="our-beer"/>
+    <file name="u2630-6.png" crc="69325746" ref="our-beer"/>
+    <file name="u2631-4.png" crc="43025522" ref="our-beer"/>
+    <file name="u2632-4.png" crc="4095173202" ref="our-beer"/>
+    <file name="u2633-6.png" crc="303580722" ref="our-beer"/>
+    <file name="u2746-8.png" crc="4036766154" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2638-11.png" crc="4217116160" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u2642-21.png" crc="3854064546" ref="our-beer:kauri-ipa:rawene:beautiful-trouble-ipa:bbc-pilsner:pacific-pale-ale"/>
+    <file name="u1395-3.png" crc="99110631" ref="the-studio"/>
+    <file name="u1396-18.png" crc="3820802262" ref="the-studio"/>
+    <file name="u1404-19.png" crc="4213515183" ref="the-studio"/>
+    <file name="u1408-10.png" crc="426334527" ref="the-studio"/>
+    <file name="u4678.png" crc="4026980218" ref="contact-us"/>
+    <file name="u4678-r.png" crc="4275058895" ref="contact-us"/>
+    <file name="u4706.png" crc="4257144304" ref="contact-us"/>
+    <file name="u4706-r.png" crc="3972128491" ref="contact-us"/>
+    <file name="u4720.png" crc="230781829" ref="contact-us"/>
+    <file name="u4720-r.png" crc="450583851" ref="contact-us"/>
+    <file name="u4733.png" crc="3779128157" ref="contact-us"/>
+    <file name="u4733-r.png" crc="83138057" ref="contact-us"/>
+    <file name="u4711.png" crc="272756718" ref="contact-us"/>
+    <file name="u4711-r.png" crc="4015194805" ref="contact-us"/>
+    <file name="u4726-4.png" crc="169672710" ref="contact-us"/>
+    <file name="u4740.png" crc="4160030001" ref="contact-us"/>
+    <file name="u4740-r.png" crc="322469087" ref="contact-us"/>
+    <file name="u4684.png" crc="183312554" ref="contact-us"/>
+    <file name="u4684-r.png" crc="3940008169" ref="contact-us"/>
+    <file name="u4746.png" crc="4215089791" ref="contact-us"/>
+    <file name="u4746-r.png" crc="4026192704" ref="contact-us"/>
+    <file name="u4699.png" crc="4247802792" ref="contact-us"/>
+    <file name="u4699-r.png" crc="111792196" ref="contact-us"/>
+    <file name="craftbeer white2.jpg" crc="514096574" ref="contact-us"/>
+    <file name="u1492-22.png" crc="3996095078" ref="contact-us"/>
+    <file name="u3153-6.png" crc="266864296" ref="contact-us"/>
+    <file name="u1491.png" crc="373450731" ref="contact-us"/>
+    <file name="u1491-ferr.png" crc="4033837068" ref="contact-us"/>
+    <file name="u1478.png" crc="3770946077" ref="contact-us"/>
+    <file name="u1478-ferr.png" crc="3893575115" ref="contact-us"/>
+    <file name="u1487-17.png" crc="200884290" ref="contact-us"/>
+    <file name="u1487-17-r.png" crc="195222174" ref="contact-us"/>
+    <file name="u1487-17-m.png" crc="473606238" ref="contact-us"/>
+    <file name="u1487-17-fs.png" crc="59421444" ref="contact-us"/>
+    <file name="u1485.png" crc="3847317008" ref="contact-us"/>
+    <file name="u1485-ferr.png" crc="3827067012" ref="contact-us"/>
+    <file name="u4753-11.png" crc="4217116160" ref="contact-us"/>
+    <file name="u4758-21.png" crc="3854064546" ref="contact-us"/>
+    <file name="kauri8882.png" crc="470983286" seo="true" ref="kauri-ipa"/>
+    <file name="u760-37.png" crc="14329291" ref="kauri-ipa"/>
+    <file name="rawene_tap_badge229x229.png" crc="4056309811" seo="true" ref="rawene"/>
+    <file name="u795-36.png" crc="4266824200" ref="rawene"/>
+    <file name="beautifultrouble_tapbadge229x229.png" crc="4052482770" seo="true" ref="beautiful-trouble-ipa"/>
+    <file name="beautiful_trouble_888ml.png" crc="3889512656" seo="true" ref="beautiful-trouble-ipa"/>
+    <file name="u842-32.png" crc="4230205300" ref="beautiful-trouble-ipa"/>
+    <file name="tapbadge_pilsner228x229.png" crc="3793469317" seo="true" ref="bbc-pilsner"/>
+    <file name="u878-32.png" crc="3872333904" ref="bbc-pilsner"/>
+    <file name="tapbadge_paleale3.png" crc="161482362" seo="true" ref="pacific-pale-ale"/>
+    <file name="u929-31.png" crc="3864669260" ref="pacific-pale-ale"/>
+    <file name="menu background white2.png" crc="48423552" seo="true" ref="food-menu"/>
+    <file name="u1471-4.png" crc="195823532" ref="food-menu"/>
+    <file name="u1473-4.png" crc="447946040" ref="food-menu"/>
+    <file name="u1474-53.png" crc="4056396418" ref="food-menu"/>
+    <file name="u2372-4.png" crc="3788069255" ref="our-media"/>
+    <file name="u2542-6.png" crc="112933289" ref="our-media"/>
+    <file name="u2373-21.png" crc="3773056764" ref="our-media"/>
+    <file name="u2370_states.png" crc="97264233" ref="our-media"/>
+    <file name="u2370_states-r.png" crc="163109881" ref="our-media"/>
+    <file name="u2530-8.png" crc="220017423" ref="our-media"/>
+    <file name="u2520-8.png" crc="3804683598" ref="our-media"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_b-master.css" crc="349773338" ref="tablet>our-beer:tablet>beautiful-trouble-ipa:tablet>bbc-pilsner:tablet>kauri-ipa:tablet>pacific-pale-ale:tablet>rawene"/>
+      <file name="master_a-master.css" crc="3766106082" ref="tablet>contact-us:tablet>the-studio:tablet>food-menu:tablet>index"/>
+      <file name="contact-us.css" crc="414847490" ref="tablet>contact-us"/>
+      <file name="our-beer.css" crc="491752821" ref="tablet>our-beer"/>
+      <file name="beautiful-trouble-ipa.css" crc="143378951" ref="tablet>beautiful-trouble-ipa"/>
+      <file name="bbc-pilsner.css" crc="4242043499" ref="tablet>bbc-pilsner"/>
+      <file name="kauri-ipa.css" crc="494932409" ref="tablet>kauri-ipa"/>
+      <file name="the-studio.css" crc="3810954556" ref="tablet>the-studio"/>
+      <file name="food-menu.css" crc="3803215490" ref="tablet>food-menu"/>
+      <file name="our-media.css" crc="127022424" ref="tablet>our-media"/>
+      <file name="pacific-pale-ale.css" crc="388061574" ref="tablet>pacific-pale-ale"/>
+      <file name="rawene.css" crc="461821078" ref="tablet>rawene"/>
+      <file name="index.css" crc="86299426" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="372990534" seo="true" mt="1488700414246" redirect="true"/>
+    <file name="our-beer.html" crc="312421894" seo="true" mt="1488700157053" redirect="true"/>
+    <file name="kauri-ipa.html" crc="339915612" seo="true" mt="1488698715434" redirect="true"/>
+    <file name="rawene.html" crc="4254934481" seo="true" mt="1488698715434" redirect="true"/>
+    <file name="bbc-pilsner.html" crc="3857137140" seo="true" mt="1488698715434" redirect="true"/>
+    <file name="pacific-pale-ale.html" crc="387063497" seo="true" mt="1488698715434" redirect="true"/>
+    <file name="beautiful-trouble-ipa.html" crc="179252441" seo="true" mt="1488698715434" redirect="true"/>
+    <file name="the-studio.html" crc="397992882" seo="true" mt="1488700414665" redirect="true"/>
+    <file name="food-menu.html" crc="3835772766" seo="true" mt="1488700414665" redirect="true"/>
+    <file name="our-media.html" crc="3971778466" seo="true" mt="1488699879914" redirect="true"/>
+    <file name="contact-us.html" crc="3950587617" seo="true" mt="1488700414665" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3929499344" ref="phone>index:phone>contact-us:phone>food-menu:phone>our-studio:phone>our-media"/>
+      <file name="master_b-master.css" crc="425032760" ref="phone>kauri-double-ipa:phone>bbc-pilsner:phone>beautiful-trouble-ipa:phone>our-beer:phone>bbc-pacific-pale-ale:phone>rawene-stout"/>
+      <file name="kauri-double-ipa.css" crc="3794249952" ref="phone>kauri-double-ipa"/>
+      <file name="bbc-pilsner.css" crc="3931837481" ref="phone>bbc-pilsner"/>
+      <file name="beautiful-trouble-ipa.css" crc="496573088" ref="phone>beautiful-trouble-ipa"/>
+      <file name="index.css" crc="263929396" ref="phone>index"/>
+      <file name="contact-us.css" crc="530357201" ref="phone>contact-us"/>
+      <file name="food-menu.css" crc="4100808648" ref="phone>food-menu"/>
+      <file name="our-studio.css" crc="3849430572" ref="phone>our-studio"/>
+      <file name="our-beer.css" crc="481779716" ref="phone>our-beer"/>
+      <file name="our-media.css" crc="4281497860" ref="phone>our-media"/>
+      <file name="bbc-pacific-pale-ale.css" crc="99778278" ref="phone>bbc-pacific-pale-ale"/>
+      <file name="rawene-stout.css" crc="4212613589" ref="phone>rawene-stout"/>
+    </folder>
+    <file name="index.html" crc="3797063660" seo="true" mt="1488698437733" redirect="true"/>
+    <file name="contact-us.html" crc="533031010" seo="true" mt="1488698437732" redirect="true"/>
+    <file name="our-studio.html" crc="212224608" seo="true" mt="1488698437732" redirect="true"/>
+    <file name="our-beer.html" crc="4091088981" seo="true" mt="1488698437734" redirect="true"/>
+    <file name="our-media.html" crc="74513972" seo="true" mt="1488698437732" redirect="true"/>
+    <file name="food-menu.html" crc="431023592" seo="true" mt="1488698437732" redirect="true"/>
+    <file name="kauri-double-ipa.html" crc="294170883" seo="true" mt="1488698437734" redirect="true"/>
+    <file name="beautiful-trouble-ipa.html" crc="3298589" seo="true" mt="1488698437735" redirect="true"/>
+    <file name="bbc-pacific-pale-ale.html" crc="18446641" seo="true" mt="1488698437735" redirect="true"/>
+    <file name="bbc-pilsner.html" crc="4120713373" seo="true" mt="1488698437736" redirect="true"/>
+    <file name="rawene-stout.html" crc="3856602619" seo="true" mt="1488698437736" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="189742505" seo="true" mt="1488700421823" redirect="true"/>
+  <file name="our-beer.html" crc="4282434256" seo="true" mt="1488698437720" redirect="true"/>
+  <file name="the-studio.html" crc="3779541830" seo="true" mt="1488700421823" redirect="true"/>
+  <file name="contact-us.html" crc="4121843300" seo="true" mt="1488699152512" redirect="true"/>
+  <file name="kauri-ipa.html" crc="4094468630" seo="true" mt="1488698437722" redirect="true"/>
+  <file name="rawene.html" crc="168002210" seo="true" mt="1488698437722" redirect="true"/>
+  <file name="beautiful-trouble-ipa.html" crc="365755098" seo="true" mt="1488698437723" redirect="true"/>
+  <file name="bbc-pilsner.html" crc="17428399" seo="true" mt="1488698437724" redirect="true"/>
+  <file name="pacific-pale-ale.html" crc="4130977525" seo="true" mt="1488698437724" redirect="true"/>
+  <file name="food-menu.html" crc="533625586" seo="true" mt="1488700421823" redirect="true"/>
+  <file name="our-media.html" crc="3998377311" seo="true" mt="1488700421823" redirect="true"/>
+</manifest>

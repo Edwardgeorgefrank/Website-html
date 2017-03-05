@@ -1,0 +1,204 @@
+#u2124-3
+{
+	border-style: none;
+	border-color: transparent;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: transparent url("../../images/burger.svg") no-repeat right center;
+	background-size: contain;
+}
+
+#u2124-3:hover
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: contain;
+}
+
+#u2124-3:active
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: contain;
+}
+
+#u2124-3.AccordionPanelTabOpen
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+	border-style: none;
+	border-color: transparent;
+	background-size: contain;
+}
+
+.nosvg #u2124-3
+{
+	background-image: url('../../images/burger_poster_u1751.png');
+}
+
+#u2124-3.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+}
+
+#u2130
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2130:hover
+{
+	background-color: #999999;
+}
+
+#u2130:active
+{
+	background-color: #6B6B6B;
+}
+
+#u2133-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-transform: uppercase;
+	position: relative;
+}
+
+#u2135
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u2130.MuseMenuActive,#u2135:hover
+{
+	background-color: #999999;
+}
+
+#u2135:active
+{
+	background-color: #6B6B6B;
+}
+
+#u2136-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u2149
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2135.MuseMenuActive,#u2149:hover
+{
+	background-color: #999999;
+}
+
+#u2149:active
+{
+	background-color: #6B6B6B;
+}
+
+#accordionu2122,#u2125,#menuu2126,#u2151-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2156
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u2149.MuseMenuActive,#u2156:hover
+{
+	background-color: #999999;
+}
+
+#u2156:active
+{
+	background-color: #6B6B6B;
+}
+
+#u2158-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u2142
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2156.MuseMenuActive,#u2142:hover
+{
+	background-color: #999999;
+}
+
+#u2142:active
+{
+	background-color: #6B6B6B;
+}
+
+#u2142.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u2145-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	position: relative;
+}
+
+.MenuItem,.AccordionPanelTab /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u2172
+{
+	background-color: #7F7F7F;
+	position: relative;
+}
+
+#u2173-8
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u2164,#u2121
+{
+	background-color: #000000;
+}
+
+#u2166,#u2123,#u2127,#u2134,#u2148,#u2155,#u2141,#u2169,#u2312,#u2314,#u2316,#u2318
+{
+	background-color: transparent;
+	position: relative;
+}
+

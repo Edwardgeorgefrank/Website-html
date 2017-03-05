@@ -1,0 +1,166 @@
+.version.our_media /* version checker */
+{
+	color: #000007;
+	background-color: #923558;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#ppu4123
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: -2px;
+}
+
+#pu4123
+{
+	width: 0.01px;
+}
+
+#u4123
+{
+	z-index: 18;
+	width: 770px;
+	padding-bottom: 111px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/beats-1-teaser-003.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u4121-21
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -27px;
+	left: -52px;
+}
+
+#u4122
+{
+	z-index: 41;
+	position: relative;
+	width: 319px;
+	margin-right: -10000px;
+	margin-top: 389px;
+	left: 226px;
+}
+
+#u4122_states
+{
+	height: 113px;
+	width: 319px;
+	vertical-align: top;
+	background: url("../../images/u4122_states.png") no-repeat 0px 0px;
+}
+
+#u4122:hover #u4122_states
+{
+	background: url("../../images/u4122_states-r.png") no-repeat 0px 0px;
+}
+
+#u4127
+{
+	z-index: 43;
+	width: 770px;
+	min-height: 464px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 489px;
+}
+
+#u4129
+{
+	z-index: 44;
+	width: 770px;
+	min-height: 464px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#pu4117-8
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 964px;
+	margin-left: 820px;
+}
+
+#u4117-8
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	margin-left: 61px;
+	position: relative;
+}
+
+#u4115-8
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	margin-top: 166px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

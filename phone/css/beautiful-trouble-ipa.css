@@ -1,0 +1,625 @@
+.version.beautiful_trouble_ipa /* version checker */
+{
+	color: #00001D;
+	background-color: #991AA0;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 568px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	margin-bottom: -2px;
+	width: 0.01px;
+}
+
+#pu2164
+{
+	width: 0.01px;
+	margin-left: -10px;
+}
+
+#u2164
+{
+	z-index: 2;
+	min-height: 72px;
+	padding-bottom: 6px;
+}
+
+#u2166
+{
+	z-index: 66;
+	width: 109px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 19px;
+}
+
+#u2164-bw
+{
+	z-index: 2;
+	min-height: 72px;
+}
+
+#accordionu2122
+{
+	z-index: 68;
+	width: 381px;
+	margin-right: -10000px;
+	margin-top: 18px;
+}
+
+#u2123
+{
+	z-index: 69;
+	width: 381px;
+}
+
+#u2124-3
+{
+	z-index: 70;
+	width: 371px;
+	min-height: 28px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#u2124-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 28px;
+	width: 371px;
+	margin: 0px;
+}
+
+#u2124-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 28px;
+	width: 371px;
+	margin: 0px;
+}
+
+#u2124-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 28px;
+	width: 371px;
+	margin: 0px;
+}
+
+#u2125
+{
+	z-index: 73;
+	width: 381px;
+	padding-bottom: 4px;
+}
+
+#menuu2126
+{
+	z-index: 74;
+	width: 360px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
+}
+
+#u2127
+{
+	width: 360px;
+}
+
+#u2130
+{
+	width: 360px;
+	min-height: 23px;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+}
+
+#u2130:hover
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2130:active
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2133-4
+{
+	width: 360px;
+	min-height: 23px;
+	margin-right: -10000px;
+	top: 16px;
+}
+
+#u2130:hover #u2133-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2130:active #u2133-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2135
+{
+	width: 360px;
+	min-height: 23px;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+}
+
+#u2130.MuseMenuActive,#u2135:hover
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2135:active
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2136-4
+{
+	width: 360px;
+	min-height: 23px;
+	margin-right: -10000px;
+	top: 16px;
+}
+
+#u2130.MuseMenuActive #u2133-4,#u2135:hover #u2136-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2135:active #u2136-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2149
+{
+	width: 360px;
+	min-height: 23px;
+	padding-bottom: 33px;
+	margin-right: -10000px;
+}
+
+#u2135.MuseMenuActive,#u2149:hover
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2149:active
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2151-4
+{
+	width: 360px;
+	min-height: 23px;
+	margin-right: -10000px;
+	top: 16px;
+}
+
+#u2135.MuseMenuActive #u2136-4,#u2149:hover #u2151-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2149:active #u2151-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2156
+{
+	width: 360px;
+	min-height: 23px;
+	padding-bottom: 33px;
+	margin-right: -10000px;
+}
+
+#u2149.MuseMenuActive,#u2156:hover
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2156:active
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2158-4
+{
+	width: 360px;
+	min-height: 23px;
+	margin-right: -10000px;
+	top: 16px;
+}
+
+#u2149.MuseMenuActive #u2151-4,#u2156:hover #u2158-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2156:active #u2158-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2134,#u2148,#u2155,#u2141
+{
+	width: 360px;
+	margin-top: 2px;
+}
+
+#u2142
+{
+	width: 360px;
+	min-height: 23px;
+	padding-bottom: 33px;
+	margin-right: -10000px;
+}
+
+#u2156.MuseMenuActive,#u2142:hover
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2142:active
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2142.MuseMenuActive
+{
+	width: 360px;
+	min-height: 23px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2145-4
+{
+	width: 360px;
+	min-height: 23px;
+	margin-right: -10000px;
+	top: 16px;
+}
+
+#u2156.MuseMenuActive #u2158-4,#u2142:hover #u2145-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2142:active #u2145-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2142.MuseMenuActive #u2145-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 360px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4272
+{
+	z-index: 125;
+	width: 191px;
+	background-color: transparent;
+	margin-left: 98px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u4272_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u4267-32
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 24px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u4268-6
+{
+	z-index: 35;
+	width: 396px;
+	min-height: 34px;
+	background-color: transparent;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu4269-10
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: -4px;
+}
+
+#u4269-10
+{
+	z-index: 41;
+	width: 168px;
+	min-height: 40px;
+	background-color: transparent;
+	text-align: right;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4269-2
+{
+	font-weight: normal;
+}
+
+#u4270-10
+{
+	z-index: 51;
+	width: 168px;
+	min-height: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 183px;
+}
+
+#u4270-8
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4270
+{
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 18px;
+}
+
+#u4270-2
+{
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 18px;
+}
+
+#u4270-3
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u4270-6
+{
+	font-weight: bold;
+	line-height: 17px;
+}
+
+#u4270-5,#u4270-7
+{
+	line-height: 17px;
+}
+
+#u4271-5
+{
+	z-index: 61;
+	width: 150px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 122px;
+	position: relative;
+}
+
+#u4269,#u4269-3,#u4269-6,#u4271
+{
+	font-weight: bold;
+}
+
+#u2172
+{
+	z-index: 108;
+	width: 350px;
+	height: 2px;
+	margin-left: 15px;
+	margin-top: 9px;
+}
+
+#u2169
+{
+	z-index: 106;
+	width: 190px;
+	margin-left: 95px;
+	margin-top: 8px;
+}
+
+#u2173-8
+{
+	z-index: 109;
+	margin-left: 95px;
+	margin-top: 8px;
+}
+
+#u2121
+{
+	z-index: 105;
+	min-height: 63px;
+	padding-bottom: 8px;
+}
+
+#u2312
+{
+	z-index: 117;
+	width: 55px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 19px;
+}
+
+#u2314
+{
+	z-index: 119;
+	width: 55px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 114px;
+}
+
+#u2316
+{
+	z-index: 121;
+	width: 55px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 216px;
+}
+
+#u2318
+{
+	z-index: 123;
+	width: 55px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 315px;
+}
+
+#u2121-bw
+{
+	z-index: 105;
+	min-height: 63px;
+	margin-top: 18px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
